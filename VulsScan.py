@@ -8,10 +8,10 @@ from bs4 import BeautifulSoup
 import pandas as pd
 
 # with open('twitter_keys.txt') as tk:
-consumer_key = 'XAD9sZmdVdef7cH3SkHJSbsUQ'
-consumer_secret = 'rrFzLHuaIkTiKRLTFKaKewMGm8pdB0DfnIDRMvdsIWZ0ZJ18m5'
-access_token = '1371891471016726532-4cmI4HF8DWIanvlAnpc5xknxwYHMes'
-access_token_secret = 'iDBTI1QeHqOuasC16l5TN1lrZdfFlQ71WvplPblJUpzGl'
+consumer_key = 'consumer_key'
+consumer_secret = 'consumer_secret'
+access_token = 'access_token'
+access_token_secret = 'access_token_secret'
 # Twitter API autorizacia
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
