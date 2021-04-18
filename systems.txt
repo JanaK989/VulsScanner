@@ -1,0 +1,12 @@
+microsoft
+chrome
+mozilla
+firefox
+adobe
+java
+windows
+edge
+explorer
+outlook
+sharepoint
+chakracore
